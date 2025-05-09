@@ -14,8 +14,17 @@ La mayoría de los usuarios del transporte público aún no confían en la tecno
 💰 Costos económicos
 La inversión inicial en sensores, cámaras y plataformas de control es alta para municipios con presupuestos limitados. Por ejemplo, la Municipalidad de Guatemala ha tenido que priorizar alumbrado y pavimentación sobre automatización. Sin embargo, reducir tráfico podría ahorrar millones en pérdidas por tiempo y combustible. Una ruta piloto IoT con transporte público en la zona 1 o 9 podría demostrar viabilidad. El apoyo externo o cooperación internacional es clave para superar la barrera económica.
 
-🚨 Seguridad cinemática
-El IoT puede prevenir colisiones en zonas escolares o intersecciones críticas mediante sensores de proximidad o cámaras de análisis en tiempo real. Guatemala tiene una alta tasa de accidentes de tránsito, especialmente en motociclistas y buses urbanos. La implementación de semáforos inteligentes en puntos como El Naranjo o Montúfar podría reducir incidentes. También se pueden usar alertas móviles para prevenir atropellos en zonas de alto cruce peatonal. La tecnología refuerza la seguridad vial sin reemplazar la educación vial.
+a. Ciberseguridad
+• Protección contra hackeos en los sistemas de gestión del transporte (buses automatizados,
+semáforos inteligentes, sensores de tráfico).
+• Uso de protocolos de comunicación seguros (como TLS/SSL) entre dispositivos IoT y
+servidores.
+• Implementación de firewalls, autenticación robusta, cifrado de datos y actualizaciones de
+firmware.
+b. Seguridad física del sistema
+• Protección de los dispositivos físicos (sensores, cámaras, GPS) contra sabotajes,
+vandalismo o mal uso.
+• Mantenimiento regular de equipos IoT para evitar fallas críticas
 
 🔒 Privacidad de los datos
 El uso de cámaras inteligentes o seguimiento vía apps genera preocupaciones sobre vigilancia o uso indebido de datos. Guatemala aún no tiene una ley sólida de protección de datos personales, lo que deja a los ciudadanos vulnerables. Por ejemplo, apps de taxis o transporte podrían compartir datos sin consentimiento claro. Cualquier sistema automatizado debe garantizar anonimato y transparencia. Se requiere regulación específica antes de expandir sensores urbanos o plataformas digitales.
@@ -24,7 +33,13 @@ El uso de cámaras inteligentes o seguimiento vía apps genera preocupaciones so
 En Guatemala no existe un marco legal para el transporte automatizado ni para infraestructura inteligente. Las normas de tránsito no contemplan interacción máquina-máquina o vehículos autónomos. La Dirección General de Transporte (DGT) debería liderar un reglamento para pruebas piloto. También se necesita estandarizar tecnología para que los diferentes municipios puedan integrarse. La falta de coordinación entre alcaldías impide proyectos regionales de movilidad automatizada.
 
 🖥️ Barreras tecnológicas
-Zonas fuera del centro urbano como Chinautla o Amatitlán tienen acceso limitado a redes estables o energía eléctrica constante. El IoT requiere conexión en tiempo real, sensores robustos y mantenimiento técnico, recursos escasos en municipios pequeños. Incluso en la ciudad capital, hay problemas con vandalismo y robo de infraestructura tecnológica. El desarrollo tecnológico urbano debe ir acompañado de inversión en conectividad. Sin infraestructura digital, no hay automatización funcional.
+Infraestructura digital insuficiente
+• Falta de redes de comunicación estables (como 4G o 5G) necesarias para operar vehículos
+y sistemas conectados en tiempo real.
+• Poca presencia de sensores, cámaras inteligentes, semáforos automatizados, y estaciones
+de carga eléctrica.
+
+
 
 🧑🏾‍🤝‍🧑🏻 Barreras sociales
 El transporte urbano en Guatemala refleja desigualdad: quienes usan Transmetro y Transurbano muchas veces no tienen acceso a smartphones o internet. Esto impide aprovechar apps de localización, pago o seguridad. Las mujeres y personas mayores son particularmente vulnerables y poco beneficiadas por soluciones tecnológicas sin enfoque inclusivo. Deben diseñarse soluciones simples, accesibles y multilingües (como en idiomas mayas). La inclusión debe estar al centro de cualquier avance.
